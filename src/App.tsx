@@ -1,12 +1,13 @@
 import './App.css'
+import { PageHeader } from './layouts/PageHeader'
 
 function App() {
 
 
   return (
-    <>
-      <h2>hello world</h2>
-    </>
+    <div className='max-h-screen flex flex-col'>
+      <PageHeader />
+    </div>
   )
 }
 
