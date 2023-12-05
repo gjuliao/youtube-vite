@@ -8,7 +8,7 @@ export const PageHeader = () => {
             <Menu />
             <a href='/'>
                 <h1 className='text-2xl font-bold text-red-500 hover:text-red-700'>
-                    YouTube
+                    YouTube1
                 </h1>
             </a>
         </div>
