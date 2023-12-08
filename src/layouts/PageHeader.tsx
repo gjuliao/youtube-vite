@@ -12,7 +12,7 @@ export const PageHeader = () => {
           </Button>
             <a href='/'>
                 <h1 className='text-2xl font-bold text-red-500 hover:text-red-700'>
-                    YouTube1
+                    YouTube
                 </h1>
             </a>
         </div>
